@@ -30,7 +30,7 @@ sudo ethos_uhcpd.py m3-<node-id> tap0 2001:660:5307:3100::1/56
 Setup MQTT Broker and Mosquitto Bridge on A8 Node Now, in another terminal, SSH to the SSH frontend, and login into clone the mqtt_broker and mosquitto bridge configuration files in A8 shared directory. SSH into the A8 node
 ssh root@node-a8-1
 
-you can Check the global IPv6 address of the A8 node
+you can Check the global IPv6 address of the A8 node with this command: 
 ifconfig
 
 
