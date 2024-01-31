@@ -248,7 +248,7 @@ int main(void){
     lpsxxx_init(&lpsxxx, &lpsxxx_params[0]);
 
 
-    puts("FIT-IOT LAB sensor node to AWSIOT\n");
+    puts("FIT-IOT LAB sensor node to mahmad\n");
     puts("Setting up MQTT-SN.\n");
     setup_mqtt();
     xtimer_sleep(3);
