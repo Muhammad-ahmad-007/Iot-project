@@ -9,12 +9,13 @@ Getting started:
 Clone the repo: https://github.com/Muhammad-ahmad-007/Iot-project
 
 Connecting to Grenoble SSH front-end:
-$ scp -r mahmad@grenoble.iot-lab.info
+$ scp -r <login>@grenoble.iot-lab.info
 
 
 Experiment via Fit-lab=mahmad
 Launched an experiment with three nodes, two m3 nodes, and one a8 node and launched an experiment. 
 
+using RIOT environment we built border router firmware: source /opt/riot.source
 
 some images for data visualization>
 <img width="959" alt="iotdata" src="https://github.com/Muhammad-ahmad-007/Iot-project/assets/59662097/ce79887d-145d-4894-8ed0-9967b587a3d3">
