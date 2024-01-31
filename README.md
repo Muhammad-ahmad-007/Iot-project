@@ -5,8 +5,15 @@ In this project, we built a smart sensor device using the RIOT operating system.
 Repo Structure:
 ![image](https://github.com/Muhammad-ahmad-007/Iot-project/assets/59662097/8fcd8266-0e2a-4110-ad44-57a187f88f37)
 
-#Getting started:
+Getting started:
 Clone the repo: https://github.com/Muhammad-ahmad-007/Iot-project
+
+Connecting to Grenoble SSH front-end:
+$ scp -r mahmad@grenoble.iot-lab.info
+
+
+Experiment via Fit-lab=mahmad
+Launched an experiment with three nodes, two m3 nodes, and one a8 node and launched an experiment. 
 
 
 some images for data visualization>
